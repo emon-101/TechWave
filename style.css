@@ -39,3 +39,9 @@
 .host-bg {
     background: rgba(53, 17, 101, 0.4);
 }
+
+/* Badge section */
+.badge {
+    box-shadow: 0px 3px 27px 0px rgba(0, 255, 136, 0.5);
+    background:  rgba(0, 255, 136, 1);
+}
